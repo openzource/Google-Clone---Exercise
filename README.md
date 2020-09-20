@@ -1,2 +1,2 @@
-# Proyectoo/ google-clone
+# Proyecto/ google-clone
 Ejercicio práctico de HTML5 y CSS3.
